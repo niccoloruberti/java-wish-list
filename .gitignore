@@ -1,0 +1,8 @@
+# Personal folder
+Personal/**
+!Personal/Main Instruction.md
+
+# Obsidian settings
+.obsidian/
+
+/bin/
